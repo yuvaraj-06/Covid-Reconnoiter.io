@@ -38,4 +38,6 @@ c. The current prototyped drone would be capable of lifting a payload of 4Kg.
 In the coming future, we are planning to make this control as **autonomous** as possible. We would include an **interlinked network of multiple drones** to cover vast places in a short time.
 
 # Employment:
-Since Employment is a huge issue in current scenario.We have decided to take help of interested people (crowd source) to monitor alerts and perform constant analysis of drone and its video feed. All this is stored in a secure blockchain for added data security .
+Since Employment is a huge issue in current scenario.We have decided to take help of interested people (crowd source) to monitor alerts and perform constant analysis of drone and its video feed. All this is stored in a secure blockchain for added data security.
+
+<img src="https://github.com/yuvaraj-06/Covid-Reconnoiter.io/blob/master/blockchain%20app.PNG">
